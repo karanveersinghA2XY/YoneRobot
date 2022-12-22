@@ -370,7 +370,7 @@ __help__ = """
  ‣ `/sanitize`*:* always use this before /pat or any contact
  ‣ `/pat`*:* pats a user, or get patted
  ‣ `/8ball`*:* predicts using 8ball method
- ‣ `/punchme or kickme`*:* punches the user who issued the command from the group
+ ‣ `/kv or kickme`*:* punches the user who issued the command from the group
 """
 
 SANITIZE_HANDLER = DisableAbleCommandHandler("sanitize", sanitize, run_async=True)
