@@ -241,7 +241,7 @@ def yone_about_callback(update: Update, context: CallbackContext):
                 [
                    [
                      InlineKeyboardButton(text="Support", url="t.me/ENGLISH_SPEAKERSSS"),
-                     InlineKeyboardButton(text="News", url="t.me/Yone_Updates"),
+                     InlineKeyboardButton(text="News", url="t.me/cute_applee"),
                    ],
                    [
                     InlineKeyboardButton(text="Back", callback_data="yone_back")
